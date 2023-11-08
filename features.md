@@ -132,6 +132,7 @@ and/or implementations have been removed.
 [payment-request]: https://www.w3.org/TR/payment-request/#permissions-policy
 [pip]: https://wicg.github.io/picture-in-picture/#feature-policy
 [publickey-credentials-get]: https://w3c.github.io/webauthn/#sctn-permissions-policy
+[publickey-credentials-create]: https://w3c.github.io/webauthn/#sctn-permissions-policy
 [wake-lock]: https://w3c.github.io/screen-wake-lock/#policy-control
 [web-midi]: https://webaudio.github.io/web-midi-api/#permissions-policy-integration
 [web-serial]: https://wicg.github.io/serial/#permissions-policy
